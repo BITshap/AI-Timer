@@ -1,0 +1,29 @@
+.boxer-stopwatch {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  .custom-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .timer {
+    font-size: 60px;
+    margin-bottom: 30px;
+  }
+  
+  .controls {
+    margin-top: 10px; /* Added margin to create space between buttons */
+  }
+  
+  .controls button {
+    margin: 5px; /* Adjusted margin between buttons */
+  }
+  
